@@ -1,9 +1,4 @@
 /**
- * 
- */
-
-/**
- * @author DELL INSPIRON
  *
  */
 public class HelloWorld1 {
